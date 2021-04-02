@@ -1,0 +1,7 @@
+/models/*
+/training_data/*
+/images/*
+/duplicates
+/data.txt
+/emotes.zip
+/master.db
